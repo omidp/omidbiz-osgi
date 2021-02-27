@@ -13,6 +13,7 @@
 	</parent>
 	<modules>
 		<module>org.omidbiz.user</module>
+		<module>org.omidbiz.payment</module>
 		<module>${omidbiz.target}</module>
 	</modules>
 
