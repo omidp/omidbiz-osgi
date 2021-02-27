@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Omidbiz User Library
+Bundle-SymbolicName: org.omidbiz.user
+Bundle-Version: 8.1.0.qualifier
+Bundle-Activator: org.omidbiz.user.Activator
+Bundle-ActivationPolicy: lazy
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version>=11))"
+Import-Package: org.osgi.framework;version="1.3.0"
+Export-Package: org.omidbiz.user
+Bundle-ClassPath: .
+Automatic-Module-Name: org.omidbiz.user
+Bundle-Vendor: iDempiere Community
