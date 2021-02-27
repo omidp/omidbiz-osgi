@@ -4,6 +4,8 @@ This is a simple osgi java template based on tycho maven plugin
 
 ### How to build
 
+* clone the project
+
 ```
 mvn verify
 ```
@@ -34,12 +36,12 @@ you shoulde see
 ###  How to import into eclipse IDE
 
 
-Navigate to Window > Preferences
-Navigate to Maven > Discovery
-Click Open Catalog
-On Find field, enter Tycho
-Select Tycho Configurator, click Finish to install it
-Accept the terms, certificate, etc until installed
+* Navigate to Window > Preferences
+* Navigate to Maven > Discovery
+* Click Open Catalog
+   On Find field, enter Tycho
+* Select Tycho Configurator, click Finish to install it
+* Accept the terms, certificate, etc until installed
 
 
-import existing maven project
+Import existing maven project
