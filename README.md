@@ -1,8 +1,8 @@
-== Sample OSGI Project
+## Sample OSGI Project
 
 This is a simple osgi java template based on tycho maven plugin
 
-=== How to build
+### How to build
 
 ```
 mvn verify
@@ -27,9 +27,11 @@ lb
 ```
 you shoulde see 
 
+```
 20|Active     |    1|Omidbiz User Library (8.1.0.202102270445)|8.1.0.202102270445
+```
 
-=== How to import into eclipse IDE
+###  How to import into eclipse IDE
 
 
 Navigate to Window > Preferences
