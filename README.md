@@ -9,7 +9,7 @@ mvn verify
 ```
 
 
-* Download Apache felix 
+* Download [Apache felix](https://downloads.apache.org//felix/org.apache.felix.main.distribution-7.0.0.zip)
 
 execute following commands
 
